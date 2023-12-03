@@ -1,0 +1,15 @@
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\bin\Debug\net6.0\Services.deps.json
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\bin\Debug\net6.0\Services.dll
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\bin\Debug\net6.0\Services.pdb
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\bin\Debug\net6.0\Repositories.dll
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\bin\Debug\net6.0\Repositories.pdb
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.dll
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\refint\Services.dll
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\Services.pdb
+D:\code.TNMT\Session06-PE\PE_PRN211_FA23_TamTNM\Services\obj\Debug\net6.0\ref\Services.dll
